@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "src": "./img/手机1.webp",
+      "price": 9999,
+      "primaryPrice":10000,
+      "name": "小米MIX FOLD",
+      "goodsTrait":"折叠大屏｜自研芯片"
+
+    },
+    {
+        "id": 2,
+        "src": "./img/手机2.webp",
+        "price":8499,
+        "primaryPrice":7999,
+        "name": "小米11 Ultra",
+        "goodsTrait":"1/1.12''GN2｜2K四微曲屏"
+  
+      },
+      {
+        "id": 3,
+        "src": "./img/手机3.webp",
+        "price":6499,
+        "primaryPrice":6999,
+        "name": "小米11 Pro",
+        "goodsTrait":"1/1.12''GN2｜骁龙888"
+  
+      },
+      {
+        "id": 4,
+        "src": "./img/手机4.webp",
+        "price":5099,
+        "primaryPrice":5299,
+        "name": "小米11 青春版",
+        "goodsTrait":"小米11 青春版 轻薄"
+  
+      },
+      {
+        "id": 5,
+        "src": "./img/手机5.webp",
+        "price":4599,
+        "primaryPrice":4999,
+        "name": "小米MIX FOLD",
+        "goodsTrait":"折叠大屏｜自研芯片"
+  
+      },
+      {
+        "id": 6,
+        "src": "./img/手机6.webp",
+        "price":3499,
+        "primaryPrice":3999,
+        "name": "小米11 Ultra",
+        "goodsTrait":"1/1.12''GN2｜2K四微曲屏"
+  
+      },
+      {
+        "id": 7,
+        "src": "./img/手机7.webp",
+        "price":2499,
+        "primaryPrice":2999,
+        "name": "小米11 Pro",
+        "goodsTrait":"1/1.12''GN2｜骁龙888"
+  
+      },
+      {
+        "id": 8,
+        "src": "./img/手机8.webp",
+        "price":1099,
+        "primaryPrice":1299,
+        "name": "小米11 青春版",
+        "goodsTrait":"小米11 青春版 轻薄"
+  
+      }
+  ]
